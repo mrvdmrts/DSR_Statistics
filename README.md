@@ -1,3 +1,3 @@
 # DSR_Statistics
 
-## Descriptive Statistics
+* Descriptive Statistics Exercises
